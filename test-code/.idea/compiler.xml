@@ -10,10 +10,5 @@
         <module name="cafekiosk.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="cafekiosk" target="11" />
-      <module name="cafekiosk.main" target="11" />
-      <module name="cafekiosk.test" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
